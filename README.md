@@ -1,1 +1,1 @@
-Primeiro commit do exercicio de excessões eu tratei com uma primeira parte com uma solução ruim, as próximas soluções serão melhoradas para que fique evidente a importância do uso de excessões no java.
+Primeiro commit do exercicio de excessões eu tratei com uma primeira parte com uma solução ruim, coloquei toda a lógica de negócio na Main. as próximas soluções serão melhoradas para que fique evidente a importância do uso de excessões no java.
